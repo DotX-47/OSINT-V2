@@ -20,7 +20,7 @@ Designed for ethical hackers, cybersecurity researchers, and digital investigato
 - **URL Analyzer** – Inspect URLs, extract metadata, identify redirects, and flag suspicious patterns.  
 
 ### 🖥️ Interactive Experience  
-- **Animated ASCII UI** – A smooth and engaging terminal interface designed to enhance usability and provide visual feedback during scans.  
+- **Animated ASCII UI** – A smooth and engaging terminal interface designed to enhance usability and provide visual feedback during scans.
 
 ## 📦 Installation
 
@@ -35,6 +35,8 @@ pip install -r requirements.txt
 ```bash
 python OSINT_V2.py
 ```
+
+![OSINT Toolkit Banner](screenshot1.png)
 
 ## 🛠️ Requirements  
 - Python 3.8+  
